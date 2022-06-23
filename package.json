@@ -1,0 +1,10 @@
+{
+  "name": "parse-ion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ion-js": "^4.3.0",
+    "jsbi": "^3.2.5"
+  }
+}
